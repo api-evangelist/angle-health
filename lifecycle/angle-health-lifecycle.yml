@@ -1,0 +1,15 @@
+generated: '2026-07-17'
+method: searched
+source: https://www.anglehealth.com/llms.txt
+status_page: https://broker-status.anglehealth.com/
+notes: >-
+  Angle Health publishes a public broker/partner status page. No public
+  versioning policy, deprecation policy, RFC 8594 Sunset/Deprecation header
+  documentation, or SLA was found on the public surface; developer
+  documentation is gated behind an access-on-request partner portal
+  (https://platform-partners.anglehealth.com). No public OpenAPI is available,
+  so no deprecated operations could be derived.
+versioning: null
+deprecation: null
+sla: null
+deprecated_operations: []

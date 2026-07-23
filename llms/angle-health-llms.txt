@@ -1,0 +1,65 @@
+<!-- generated: 2026-07-17 | method: searched | source: https://www.anglehealth.com/llms.txt -->
+# Modern Health Insurance Plan
+
+Discover a modern health insurance plan with Angle Health – an AI-enabled, full-stack platform designed to meet every employee’s needs. Learn more today.
+
+## General Information
+
+- [About Us](https://www.anglehealth.com/about-us): Learn about Angle Health's mission and vision in transforming health insurance through technology.
+- [Media](https://www.anglehealth.com/media): Access press releases, news articles, and media coverage related to Angle Health.
+- [Blog](https://www.anglehealth.com/blog): Read articles and insights on health insurance trends, tips, and company updates.
+- [Webinars](https://www.anglehealth.com/webinars): Participate in informative webinars hosted by Angle Health on various health insurance topics.
+- [Careers](https://www.anglehealth.com/careers): Explore job opportunities and join the Angle Health team.
+
+## Member Resources
+
+- [Members](https://www.anglehealth.com/members): Information and resources available for members of Angle Health.
+- [Find My Doctor](https://www.anglehealth.com/network-directories): A tool to help members locate healthcare providers within the Angle Health network.
+- [AngleRx - Manage Prescriptions & Benefits: Member](https://rx.anglehealth.com/): A platform for members to manage their prescriptions and benefits efficiently.
+
+## Employer Resources
+
+- [Employers](https://www.anglehealth.com/employers): Resources and information tailored for employers offering Angle Health plans.
+- [Employer Log In](https://employer.anglehealth.com/login): Secure login for employers to access their accounts and manage employee benefits.
+- [Employer](https://employers.anglehealth.com/login): Additional resources and information for employers regarding health insurance offerings.
+
+## Broker Resources
+
+- [Brokers](https://www.anglehealth.com/brokers): Information and resources for brokers working with Angle Health.
+- [Broker](https://broker.anglehealth.com/login): Specific resources and tools available for brokers to assist their clients.
+- [Angle Brokers Status](https://broker-status.anglehealth.com/): A status page for brokers to check the current state of Angle Health services.
+
+## Provider Resources
+
+- [Providers](https://www.anglehealth.com/providers): Information and resources for healthcare providers partnering with Angle Health.
+- [Provider Resources](https://www.anglehealth.com/providers#provider-resources): Access tools and information specifically designed for healthcare providers.
+
+## Technical Documentation
+
+- [Machine Readable Data](https://www.anglehealth.com/machine-readable-files): Access machine-readable data for compliance and transparency in health insurance.
+- [AngleHealth Platforms API - Developer Documentation](https://docs.anglehealth.com/): Technical documentation for developers integrating with Angle Health's API.
+
+## Contact Information
+
+- [hi@anglehealth.com](mailto:hi@anglehealth.com): General inquiries can be directed to this email.
+- [members@anglehealth.com](mailto:members@anglehealth.com): Contact for member-related questions and support.
+- [providers@anglehealth.com](mailto:providers@anglehealth.com): Email for healthcare providers seeking assistance.
+- [sales@anglehealth.com](mailto:sales@anglehealth.com): Contact for sales inquiries and partnerships.
+
+## Legal Information
+
+- [Disclosures](https://www.anglehealth.com/disclosures): Important disclosures regarding Angle Health's services and operations.
+- [Terms & Conditions](https://www.anglehealth.com/terms-conditions): The terms and conditions governing the use of Angle Health's services.
+- [Privacy Policy](https://www.anglehealth.com/privacy-policy): Information on how Angle Health handles personal data and privacy.
+
+## News and Updates
+
+- [December 3, 2025Angle raises Series B funding to scale AI-native benefits platform for SMB employees facing record increases](https://www.businesswire.com/news/home/20251203223763/en/Angle-Health-Raises-%24134-Million-to-Scale-AI-Native-Health-Benefits-Platform-for-62-Million-SMB-Employees-Facing-Record-Increases): Announcement regarding funding to enhance Angle Health's offerings.
+- [December 3, 2025 Angle Health raises $134M Series B funding to grow its AI-driven healthcare benefits offerings](https://fortune.com/2025/12/03/exclusive-angle-health-raises-134-million-series-b-to-grow-its-ai-driven-healthcare-benefits-offerings/): Details on the significant funding received to expand services.
+- [November 2, 2023 Bringing Personalization And Simplicity To Healthcare](https://www.forbes.com/sites/garydrenik/2023/11/02/bringing-personalization-and-simplicity-to-healthcare/): Insights on how Angle Health is focusing on personalized healthcare solutions.
+- [September 29, 2023 Q&A: Ty Wang, Co-Founder and CEO of Angle Health](https://ramaonhealthcare.com/qa-ty-wang-co-founder-and-ceo-of-angle-health/): An interview with Ty Wang discussing the vision and future of Angle Health.
+- [September 13, 2023 Big Benefits for Small Business w/ Ty Wang](https://open.spotify.com/show/2LBmdPfg6N1MrIn7wMQC5C): Discussion on the advantages Angle Health provides to small businesses.
+
+## FAQs
+
+- [FAQs](https://www.anglehealth.com/faqs): Frequently asked questions regarding Angle Health's services and offerings.
